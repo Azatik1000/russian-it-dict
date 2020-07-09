@@ -4,6 +4,7 @@
 
 | Слово | Определение | Примеры использования | Файл |
 |-------|-------------|-----------------------|------|
+| Дока, доки | Документация | 1. -- А как эта функция работает? В доках ничего не вижу. 2. Дока у них хорошая, любой разберётся.  | [Тык](https://github.com/Azatik1000/russian-it-dict/blob/master/words/5b808d92-2e76-42fa-9e45-429d9c104f81) |
 | Дс | Data Scientist. | 1. Он крутой дс, рубит в своей конторе 300кк/сек, гоняет чаи, пока нейронки учатся  | [Тык](https://github.com/Azatik1000/russian-it-dict/blob/master/words/b87de628-8171-45fb-aafb-1945bdd20c60) |
 | Питоняша | ... | 1. ...  | [Тык](https://github.com/Azatik1000/russian-it-dict/blob/master/words/2effd160-27a3-498e-a80e-ef2f91d0bb55) |
 | Постгря | База данных "Postgres". | 1. Сделал фронт, завёл постгрю, орм и поехали.  | [Тык](https://github.com/Azatik1000/russian-it-dict/blob/master/words/08a8611f-9909-4486-9c28-a49aac55c2ca) |
